@@ -25,7 +25,8 @@ This project analyzes financial data to evaluate budget performance, cost distri
 - Actual Expense: 1.33M  
 - Total Profit/Loss: -95K  
 - Avg Profit %: -42.8%  
-👉 Company is operating at a loss due to overspending
+👉 Business is running at a loss primarily due to consistent overspending beyond budget across categories.
+👉 Sustained overspending without revenue growth can lead to long-term financial instability
 
 ### 2. Budget vs Expense Gap
 - Actual expenses exceed budget across multiple categories  
@@ -57,4 +58,7 @@ This project analyzes financial data to evaluate budget performance, cost distri
 - Conduct detailed cost analysis for each category
 
 ## Dashboard Preview
+![Financial Dashboard](financial-dashboard.png)
 
+## 📌 Conculison
+The analysis reeveals that poor budget control and high fixed costs are the primary drivers of financial loss. Addressing these issues can significantly improve profitability and financial stability.
