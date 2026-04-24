@@ -61,4 +61,4 @@ This project analyzes financial data to evaluate budget performance, cost distri
 ![Financial Dashboard](financial-dashboard.png)
 
 ## 📌 Conculison
-The analysis reeveals that poor budget control and high fixed costs are the primary drivers of financial loss. Addressing these issues can significantly improve profitability and financial stability.
+The analysis reveals that poor budget control and high fixed costs are the primary drivers of financial loss. Addressing these issues can significantly improve profitability and financial stability.
